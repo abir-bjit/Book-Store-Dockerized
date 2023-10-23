@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Oliver Twist",
+    "author": "Charles Dickens",
+    "category": "Thriller",
+    "description": "lorem10",
+    "releaseDate": "1839",
+    "pages": 234,
+    "price": 99,
+    "stock": 12
+  },
+  {
+    "name": "Hard Times",
+    "author": "Stephen King",
+    "category": "Action",
+    "description": "lorem10",
+    "releaseDate": "1854",
+    "pages": 300,
+    "price": 90,
+    "stock": 15
+  },
+  {
+    "name": "Hamlet",
+    "author": "William Shakespeare",
+    "category": "Drama",
+    "description": "lorem10",
+    "releaseDate": "1603",
+    "pages": 160,
+    "price": 80,
+    "stock": 50
+  },
+  {
+    "name": "IT",
+    "author": "Haruki Murakami",
+    "category": "Thriller",
+    "description": "lorem10",
+    "releaseDate": "2017",
+    "pages": 500,
+    "price": 111,
+    "stock": 55
+  },
+  {
+    "name": "Norwegian Wood",
+    "author": "Charles Dickens",
+    "category": "Fiction",
+    "description": "lorem10",
+    "releaseDate": "1987",
+    "pages": 296,
+    "price": 14.99,
+    "stock": 65
+  },
+  {
+    "name": "Kafka on the Shore",
+    "author": "Charles Dickens",
+    "category": "Horror",
+    "description": "lorem10",
+    "releaseDate": "2002",
+    "pages": 505,
+    "price": 11.99,
+    "stock": 100
+  },
+  {
+    "name": "After Dark",
+    "author": "Charles Dickens",
+    "category": "Fantasy",
+    "description": "lorem10",
+    "releaseDate": "2004",
+    "pages": 208,
+    "price": 70,
+    "stock": 30
+  },
+  {
+    "name": "1Q84",
+    "author": "Charles Dickens",
+    "category": "Mystery",
+    "description": "lorem10",
+    "releaseDate": "2009",
+    "pages": 928,
+    "price": 12.99,
+    "stock": 25
+  }
+]

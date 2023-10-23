@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Mark Johnson",
+    "email": "mark.johnson@example.com",
+    "phone": "5551234567",
+    "gender": "Male",
+    "address": "789 Elm St, Village, Country",
+    "balance": 1200,
+    "timestamp": "2023-09-14T00:00:00.000Z"
+  },
+  {
+    "name": "Sarah Smith",
+    "email": "sarah.smith@example.com",
+    "phone": "5559876543",
+    "gender": "Female",
+    "address": "101 Pine St, Town, Country",
+    "balance": 800,
+    "timestamp": "2023-09-13T00:00:00.000Z"
+  },
+  {
+    "name": "Daniel Brown",
+    "email": "daniel.brown@example.com",
+    "phone": "5555555555",
+    "gender": "Male",
+    "address": "202 Oak St, City, Country",
+    "balance": 2000,
+    "timestamp": "2023-09-12T00:00:00.000Z"
+  },
+  {
+    "name": "Ella Davis",
+    "email": "ella.davis@example.com",
+    "phone": "5554443333",
+    "gender": "Female",
+    "address": "303 Maple St, Village, Country",
+    "balance": 1100,
+    "timestamp": "2023-09-11T00:00:00.000Z"
+  },
+  {
+    "name": "William Taylor",
+    "email": "william.taylor@example.com",
+    "phone": "5558887777",
+    "gender": "Male",
+    "address": "404 Birch St, Town, Country",
+    "balance": 1600,
+    "timestamp": "2023-09-10T00:00:00.000Z"
+  },
+  {
+    "name": "Ava Wilson",
+    "email": "ava.wilson@example.com",
+    "phone": "5552221111",
+    "gender": "Female",
+    "address": "505 Cedar St, City, Country",
+    "balance": 900,
+    "timestamp": "2023-09-09T00:00:00.000Z"
+  },
+  {
+    "name": "Joseph Lee",
+    "email": "joseph.lee@example.com",
+    "phone": "5556669999",
+    "gender": "Male",
+    "address": "606 Spruce St, Village, Country",
+    "balance": 1300,
+    "timestamp": "2023-09-08T00:00:00.000Z"
+  },
+  {
+    "name": "Mia Harris",
+    "email": "mia.harris@example.com",
+    "phone": "5557778888",
+    "gender": "Female",
+    "address": "707 Pine St, Town, Country",
+    "balance": 700,
+    "timestamp": "2023-09-07T00:00:00.000Z"
+  },
+  {
+    "name": "Liam Davis",
+    "email": "liam.davis@example.com",
+    "phone": "5551237890",
+    "gender": "Male",
+    "address": "123 Maple St, Village, Country",
+    "balance": 1400,
+    "timestamp": "2023-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Emma Johnson",
+    "email": "emma.johnson@example.com",
+    "phone": "5559871234",
+    "gender": "Female",
+    "address": "456 Elm St, City, Country",
+    "balance": 950,
+    "timestamp": "2023-09-05T00:00:00.000Z"
+  }
+]

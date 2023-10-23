@@ -1,0 +1,43 @@
+.footer {
+    background-color: #f8f8f8;
+    // position: fixed;
+    // bottom: 0;
+    // left: 0;
+    width: 100%;
+    padding: 30px 0;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .col-md-6 {
+    margin-bottom: 30px;
+  }
+  
+  @media (max-width: 767px) {
+    .col-md-6 {
+      text-align: center;
+    }
+  }
+  
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,55 @@
+// AllTransactions.scss
+
+.transaction-container{
+    width: 780px;
+    margin: 0 auto;
+}
+
+.all-transactions {
+    padding: 20px;
+  
+    h1 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    h3{
+        text-align: center;
+        background: #555;
+    }
+
+    h4{
+        margin: 1rem 0;
+    }
+
+    ul{
+        margin-bottom: 3rem;
+    }
+  
+    .loading {
+      font-size: 20px;
+    }
+  
+    .transaction-cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  
+      .transaction-card {
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 20px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  
+        .transaction-details {
+          font-size: 16px;
+  
+          p {
+            margin: 5px 0;
+          }
+        }
+      }
+    }
+  }
+  
