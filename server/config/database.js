@@ -10,6 +10,8 @@ const databaseConnection = async (callback) => {
             }else{
                 console.log(`Database URL is not provided`);
             }
+        }else{
+            console.log("cannot find url");
         }
     }catch(error){
         console.log(error);
