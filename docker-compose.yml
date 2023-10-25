@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  web:
+    build: ./client
+    ports:
+      - 8081:8081
+  api:
+    build: ./server
+    ports:
+      - 3000:3000
+    environment:
+      - DATABASE_URL=mongodb://db/testdb
+  db:
+    image: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - bookstore: /data/db
+
+volumes:
+  bookstore:
