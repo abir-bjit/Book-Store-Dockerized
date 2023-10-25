@@ -16,7 +16,10 @@ services:
     ports:
       - 27017:27017
     volumes:
-      - bookstore: /data/db
+      - type: volume
+        source: bookstore
+        target: /data/db
+      # - bookstore: /data/db
 
 volumes:
   bookstore:
